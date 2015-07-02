@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is master test
+=======
+this is dev2 test
+>>>>>>> dev1
